@@ -206,6 +206,10 @@ h3 {
   margin-bottom: 10px;
 }
 
+.timeline p {
+  margin-left: 2px;
+}
+
 .contact-info {
   margin-bottom: 40px;
 }
