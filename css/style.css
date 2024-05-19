@@ -222,7 +222,7 @@ h3 {
 
 @media (max-width: 991px) {
   .timeline-info {
-    max-width: 100%;
+    max-width: 90%;
   }
   
   .timeline-info small {
