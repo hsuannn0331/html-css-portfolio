@@ -55,6 +55,12 @@ h3 {
   font-size: 1.8em;
 }
 
+.project p {
+  font-size: 14px;
+  text-align: center;
+  margin: -20px auto 6px auto;
+}
+
 .navbar-brand {
   color: #161a1d;
   font-size: 24px;
@@ -228,7 +234,7 @@ h3 {
   .timeline-info {
     max-width: 90%;
   }
-  
+
   .timeline-info small {
     margin-left: 2px;
   }
